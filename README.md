@@ -13,9 +13,9 @@ GraphColorizer is an interactive tool designed to tackle graph coloring problems
 - **User-Friendly GUI**: Built with Tkinter, the application offers an intuitive interface for graph input, visualization, and interaction.
 
 ## Requirements
-- **Matplotlib
-- **NetworkX
-- **Tkinter
+- Matplotlib
+- NetworkX
+- Tkinter
 
   ## Contributing
 - **Contributions to GraphColorizer are welcome! Whether it's bug fixes, new features, or improvements to the documentation, feel free to fork the repository, make your changes, and submit a pull request.
