@@ -17,6 +17,19 @@ GraphColorizer is an interactive tool designed to tackle graph coloring problems
 - NetworkX
 - Tkinter
 
+## guide
+![GCP_guide](https://github.com/misharii/GraphColorizer/assets/125268174/64a412b9-63f6-4e7a-aa83-b988586ed6c8)
+
+## Example 
+australia territories graph
+![australia_q](https://github.com/misharii/GraphColorizer/assets/125268174/88461f3d-91d1-45ed-8bdf-efceec0cef82)
+
+Colorizer
+![Australia_example_screenshot](https://github.com/misharii/GraphColorizer/assets/125268174/0161ed2e-3d9c-4eb6-8265-c5a5e39e9de7)
+
+
+
+
   ## Contributing
 - Contributions to GraphColorizer are welcome! Whether it's bug fixes, new features, or improvements to the documentation, feel free to fork the repository, make your changes, and submit a pull request.
 
