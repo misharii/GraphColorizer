@@ -18,7 +18,7 @@ GraphColorizer is an interactive tool designed to tackle graph coloring problems
 - Tkinter
 
   ## Contributing
-- **Contributions to GraphColorizer are welcome! Whether it's bug fixes, new features, or improvements to the documentation, feel free to fork the repository, make your changes, and submit a pull request.
+- Contributions to GraphColorizer are welcome! Whether it's bug fixes, new features, or improvements to the documentation, feel free to fork the repository, make your changes, and submit a pull request.
 
 ## License
 
